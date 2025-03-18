@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("DesafioAutoMind")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+eee5154cc630d584679c2f7f077fed47940737cc")]
 [assembly: System.Reflection.AssemblyProductAttribute("DesafioAutoMind")]
 [assembly: System.Reflection.AssemblyTitleAttribute("DesafioAutoMind")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

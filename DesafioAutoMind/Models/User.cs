@@ -13,6 +13,7 @@ namespace DesafioAutoMind.Models
       Email = email;
       Age = Age;
     }
+    
     // retorna os parametros passados pelo usuario
     public override string ToString()
     {
